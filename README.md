@@ -3,6 +3,9 @@ User Monkey
 
 ###A complete user system written in PHP
 
+###[Click here](http://example.com/ "Live Demo") to view a live demo.
+
+![User Monkey Logo](http://code.as93.net/user-monkey/img/UserMonkeyBanner.png "image (c) Joesph Sykes")
 Getting Started
 ---------------
 
@@ -78,8 +81,8 @@ Verify Users Account
 	
 	
 	
-If $success is false, then the $object->getMessage(); method can be called that will return a short string informing why the action could not be completed.
-For example:
+If $success is false, then the $object->getMessage(); method can be called that will return a short string informing why the action could not be completed. For example:
+	
 	$register = new Register(); 
 	$success = $register->registerUser($username,$email,$password,"standard"); 
 	if(!$success){
