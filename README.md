@@ -3,7 +3,7 @@ User Monkey
 
 ###A complete user system written in PHP
 
-###[Click here](http://example.com/ "Live Demo") to view a live demo.
+###[Click here](http://code.as93.net/user-monkey/ "Live Demo") to view a live demo.
 
 ![User Monkey Logo](http://code.as93.net/user-monkey/img/UserMonkeyBanner.png "image (c) Joesph Sykes")
 Getting Started
