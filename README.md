@@ -185,10 +185,11 @@ Changes can be submitted by opening a pull request - if you're new to GitHub, se
 
 ## License
 
-_**[User Monkey](https://github.com/Lissy93/usermonkey)** is licensed under [MIT](https://gist.github.com/Lissy93/143d2ee01ccc5c052a17) © [Alicia Sykes](https://aliciasykes.com) 2022._ For information, see [TLDR Legal > MIT](https://tldrlegal.com/license/mit-license)
+> _**[User Monkey](https://github.com/Lissy93/usermonkey)** is licensed under [MIT](https://github.com/Lissy93/Brewfile/blob/HEAD/LICENSE) © [Alicia Sykes](https://aliciasykes.com) 2012-22._<br>
+> <sup align="right">For information, see <a href="https://tldrlegal.com/license/mit-license">TLDR Legal > MIT</a></sup>
 
 <details>
-<summary>MIT License</summary>
+<summary>Expand MIT License</summary>
 
 ```
 The MIT License (MIT)
@@ -216,12 +217,13 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
+
 <!-- License + Copyright -->
 <p  align="center">
   <i>© <a href="https://aliciasykes.com">Alicia Sykes</a> 2012</i><br>
   <i>Licensed under <a href="https://gist.github.com/Lissy93/143d2ee01ccc5c052a17">MIT</a></i><br>
   <a href="https://github.com/lissy93"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
-  <i>Thanks for visiting :)</i>
+  <sup>Thanks for visiting :)</sup>
 </p>
 
 <!-- Dinosaur -->
